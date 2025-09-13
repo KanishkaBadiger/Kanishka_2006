@@ -65,9 +65,6 @@ Contributed to a project as part of the GirlScript Summer of Code, improving my 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
 </a>
 </p>
-
-✨ Fun Section
-<p align="center">
 <a href="https://www.google.com/search?q=https://daily.dev/your-profile-here">
 <img src="https://www.google.com/search?q=https://api.daily.dev/devcards/v2/2F0077B6/quote.png%3Fr%3D00B4D8%26r%3DE0E0E0" width="300" alt="Daily.dev Dev Card">
 </a>
