@@ -1,5 +1,5 @@
 # Kanishka_2006
-Welcome to my GitHub Profile
+Hi there👋Welcome to my GitHub Profile
 
 About Me
 I'm Kanishka, a 3rd-year Computer Engineering student passionate about technology and problem-solving. I'm a tech enthusiast, an aspiring software developer, and an eager learner always looking for new challenges.
